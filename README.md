@@ -1,0 +1,2 @@
+# asterisk
+printing * on console
